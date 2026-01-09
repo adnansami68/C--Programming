@@ -69,10 +69,10 @@ This repository contains my personal solutions and task implementations for the 
 ## ⚙️ How to Run
 
 1.  **Clone** this repository to your local machine.
-2.  Open the folder in your C++ IDE or Terminal.
-3.  **Compile** the `BMS.cpp` file:
+2.  Open the folder in your C IDE or Terminal.
+3.  **Compile** the `adnan.c` file:
     ```bash
-    g++ BMS.cpp -orun
+    g++ adnan.c -orun
     ```
 4.  **Run** the application:
     ```bash
